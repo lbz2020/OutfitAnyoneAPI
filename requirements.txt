@@ -1,0 +1,2 @@
+opencv-python
+gradio==4.9.1
