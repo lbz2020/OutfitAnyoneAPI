@@ -27,7 +27,10 @@ pip install opencv-python gradio==4.9.1 -i https://pypi.tuna.tsinghua.edu.cn/sim
 python app.py
 ```
 
-网页输入127.0.0.1:7860即可体验
+网页输入**127.0.0.1:7860**即可体验
 
+![p1](data/p1.png)
 
+![p2](data/p2.png)
 
+![p3](data/p3.png)
